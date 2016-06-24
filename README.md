@@ -1,4 +1,4 @@
-# Codul de Conduită al Code for Romania
+# Codul de Conduită Code for Romania
 
 Acest document se bazează pe Codul de Conduită al Code for America.
 

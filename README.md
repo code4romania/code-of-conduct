@@ -1,7 +1,5 @@
-# code_of_conduct
-Code of Conduct
+# Codul de Conduită al Code for Romania
 
-Codul de Conduită al Code for Romania
 Acest document se bazează pe Codul de Conduită al Code for America.
 
 Comunitatea Code for Romania își propune ca toate evenimentele, forumurile și activitățile comunității Code for Romania, să reflecte următoarele:

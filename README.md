@@ -3,18 +3,18 @@
 Acest document se bazează pe Codul de Conduită al Code for America.
 
 Comunitatea Code for Romania își propune ca toate evenimentele, forumurile și activitățile comunității Code for Romania, să reflecte următoarele:
--Reprezintă un mediu sigur și respectuos pentru toți participanții
--Reprezintă un mediu în care toți oamenii se pot exprima liber
--Fiecare contribuție este valoroasă în felul ei. Respectăm ideile, calitățile și contribuția fiecăruia.
--Nu presupuneți că toată lumea are aceeași experiență anterioară. Încurajați întrebările. 
--Găsiți o manieră în care oamenii pot fi productivi cu calitățile și competențele pe care le au (tehnice sau nu) și energia fiecăruia. -Folosiți exprimări ca “da/și”, în loc de “nu/dar”.
--Încurajați membrii și participanții să asculte pe cât de mult vorbesc.
--Încercați să construiți instrumente și tehnologii accesibile publicului. Vor fi prioritizate activitățile care sunt în avantajul utilizării de către publicul larg, iar nu individuale, private.
--Prioritizează accesul și exprimarea opiniilor de către grupurile care sunt, în mod traditional, excluse de la procesul civic.
--Depune eforturi pentru a se asigura de buna reprezentare a comunității în procesul de planificare, design și implementare a soluției tehnice. Acest lucru include încurajarea participării femeilor, minorităților și grupurilor în mod traditional marginalizate.
--Implică în mod activ în procesul de luare a deciziilor grupurile din   comunitate și acelea care au expertiză pe subiectul în discuție.
--Se asigură că relațiile și conversațiile dintre membrii comunității, reprezentanții autorităților locale și partenerii comunității ramân respectuose, promovează participarea și productivitatea.
--Asigură un mediu în care oamenii nu sunt supuși discriminării sau hărțuirii.
+ - Reprezintă un mediu sigur și respectuos pentru toți participanții
+ - Reprezintă un mediu în care toți oamenii se pot exprima liber
+ - Fiecare contribuție este valoroasă în felul ei. Respectăm ideile, calitățile și contribuția fiecăruia.
+ - Nu presupuneți că toată lumea are aceeași experiență anterioară. Încurajați întrebările. 
+ - Găsiți o manieră în care oamenii pot fi productivi cu calitățile și competențele pe care le au (tehnice sau nu) și energia fiecăruia. -Folosiți exprimări ca “da/și”, în loc de “nu/dar”.
+ - Încurajați membrii și participanții să asculte pe cât de mult vorbesc.
+ - Încercați să construiți instrumente și tehnologii accesibile publicului. Vor fi prioritizate activitățile care sunt în avantajul utilizării de către publicul larg, iar nu individuale, private.
+ - Prioritizează accesul și exprimarea opiniilor de către grupurile care sunt, în mod traditional, excluse de la procesul civic.
+ - Depune eforturi pentru a se asigura de buna reprezentare a comunității în procesul de planificare, design și implementare a soluției tehnice. Acest lucru include încurajarea participării femeilor, minorităților și grupurilor în mod traditional marginalizate.
+ - Implică în mod activ în procesul de luare a deciziilor grupurile din   comunitate și acelea care au expertiză pe subiectul în discuție.
+ - Se asigură că relațiile și conversațiile dintre membrii comunității, reprezentanții autorităților locale și partenerii comunității ramân respectuose, promovează participarea și productivitatea.
+ - Asigură un mediu în care oamenii nu sunt supuși discriminării sau hărțuirii.
 
 Code for Romania este o organizație non-partizană, apolitică, și nu se va asocial cu niciun partid politic.
 
@@ -23,7 +23,7 @@ Code for Romania dezvoltă produse informatice open source. Nici un contribuitor
 Code for Romania își rezervă dreptul de a cere oricui nu respectă această politică să nu mai participe în cadrul activităților, evenimentelor și forumurilor rețelei Code for Romania.
 
 
-Politica Code for Romania Anti-Hărțuire
+## Politica Code for Romania Anti-Hărțuire
 
 Această politică anti-discriminare este bazată pe exemplul politicii de pe Geek Feminism wiki, creată de către Ada Initiative și alți voluntari.
 
@@ -51,11 +51,13 @@ Puteți, de asemenea, contacta Code for Romania în legătură cu acte de hărț
 
 Prețuim participarea voastră și sperăm că prin comunicarea acestor așteptări de la început și în mod deschis, ne putem bucura cu toții de un mediu non-agresiune. 
 
-Template de e-mail pentru raportarea situațiilor de hărțuire 
+## Template de e-mail pentru raportarea situațiilor de hărțuire 
 
 SUBIECT: Alertă Safe Space la [Numele Evenimentului]
-Vă scriu deoarece am fost supus unui act de agresiune la un eveniment al comunității Code for Romania (Nume, loc, data evenimentului).
+
+Vă scriu deoarece am fost supus unui act de agresiune la un eveniment al comunității Code for Romania (Nume, loc, data  evenimentului).
 Datele mele de contact sunt:….
+
 Vă mulțumesc!
 
 
